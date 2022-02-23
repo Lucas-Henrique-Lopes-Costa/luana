@@ -9,7 +9,6 @@
 .u-section-1 .u-group-1 {
   min-height: 797px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 0;
 }
@@ -35,10 +34,6 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-1 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -100,7 +95,6 @@
 .u-section-2 .u-group-1 {
   min-height: 797px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 0;
 }
@@ -126,10 +120,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-2 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -190,7 +180,6 @@
 .u-section-3 .u-group-1 {
   min-height: 797px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 0;
 }
@@ -216,10 +205,6 @@
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-3 .u-group-1 {
-    height: auto;
   }
 
   .u-section-3 .u-text-2 {
@@ -286,7 +271,6 @@
 .u-section-4 .u-group-1 {
   min-height: 797px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 0;
 }
@@ -312,10 +296,6 @@
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-4 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -376,7 +356,6 @@
 .u-section-5 .u-group-1 {
   min-height: 797px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 0;
 }
@@ -402,10 +381,6 @@
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-5 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -456,7 +431,7 @@
     margin-right: 10px;
   }
 }.u-section-6 {
-  background-image: none;
+  background-image: linear-gradient(#9d50dc, #26303c);
 }
 
 .u-section-6 .u-sheet-1 {
@@ -466,7 +441,6 @@
 .u-section-6 .u-group-1 {
   min-height: 712px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 85px;
   margin-bottom: 85px;
 }
@@ -486,10 +460,6 @@
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-6 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -532,7 +502,8 @@
     margin-right: 10px;
   }
 }.u-section-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/xerife-woody-e-o-astronauta-buzz-lightyear-sao-alguns-dos-personagens-principais-da-animacao.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/xerife-woody-e-o-astronauta-buzz-lightyear-sao-alguns-dos-personagens-principais-da-animacao.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -542,7 +513,6 @@
 .u-section-7 .u-group-1 {
   min-height: 712px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 60px;
   margin-bottom: 60px;
 }
@@ -562,10 +532,6 @@
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-7 .u-group-1 {
-    height: auto;
   }
 }
 
@@ -587,10 +553,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-7 {
-    background-position: 50% 50%;
-  }
-
   .u-section-7 .u-sheet-1 {
     min-height: 263px;
   }
@@ -611,7 +573,7 @@
     margin-right: 10px;
   }
 }.u-section-8 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/firework-12.gif");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/fogos-de-artificio-papel-de-parede-2560x1600_7.jpg");
   background-position: 50% 50%;
 }
 
@@ -622,7 +584,6 @@
 .u-section-8 .u-group-1 {
   min-height: 810px;
   animation-duration: 1000ms;
-  height: auto;
   margin-top: 60px;
   margin-bottom: 60px;
 }
@@ -636,7 +597,7 @@
   line-height: 1;
   font-weight: 700;
   animation-duration: 1000ms;
-  margin: 241px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-8 .u-text-2 {
@@ -659,10 +620,6 @@
 @media (max-width: 1199px) {
   .u-section-8 .u-sheet-1 {
     min-height: 867px;
-  }
-
-  .u-section-8 .u-group-1 {
-    height: auto;
   }
 
   .u-section-8 .u-custom-html-1 {
